@@ -27,7 +27,7 @@ public class SalesPersonEdit extends JPanel {
     lblSalesPersonEdit.setBounds(157, 32, 126, 16);
     add(lblSalesPersonEdit);
     
-    JLabel lblName = new JLabel("Name :");
+    JLabel lblName = new JLabel("Name : gagan ");
     lblName.setBounds(50, 86, 76, 16);
     add(lblName);
     
